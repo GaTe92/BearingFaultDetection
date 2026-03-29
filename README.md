@@ -1,2 +1,3 @@
-# BearingFaultDetection
-AI Project#1
+# Bearing Fault Detection
+
+## Project for feature extraction and pattern recognition based on open source signals££
